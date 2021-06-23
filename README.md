@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChanyuMoon.
 - 👀 I’m interested in Nueuro Science.
 - 🌱 I’m currently learning how to analyize data and how to make a website.
-- 📫 You can reach me by anscksdb0127@gmail.com
+- 📫 You can reach me by moonchanyu@gmail.com
 
 <!---
 ChanyuMoon/ChanyuMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
