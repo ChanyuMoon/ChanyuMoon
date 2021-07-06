@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChanyuMoon.
-- 👀 I’m interested in Nueuro Science.
-- 🌱 I’m currently learning how to analyize data and how to make a website.
+- 👀 I’m interested in Nueuro Science, ML, Deep Learning.
+- 🌱 I’m currently learning ML and how to make a website.
 - 📫 You can reach me by moonchanyu@gmail.com
 
 <!---
