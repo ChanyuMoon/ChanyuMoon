@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChanyuMoon.
-- 👀 I’m interested in BCI(Brain Computer Interface).
-- 🌱 I’m currently learning ML and how to make a website.
+- 👀 I’m interested in Big Data.
+- 🌱 I’m currently learning ML and html,css,js.
 - 📫 You can reach me by moonchanyu@gmail.com
 
 <!---
