@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChanyuMoon.
-- 👀 I’m interested in Big Data.
-- 🌱 I’m currently learning ML and html,css,js.
+- 👀 I’m interested in Brain Engineering.
+- 🌱 I’m currently learning signal processing & data analysis.
 - 📫 You can reach me by moonchanyu@gmail.com
 
 <!---
